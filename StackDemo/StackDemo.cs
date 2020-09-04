@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace StackDemo
+namespace StackModel
 { 
-    class Program
+    class StackDemo
     {
         static void Main(string[] args)
         {
